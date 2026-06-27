@@ -76,7 +76,7 @@ The project includes the following visualizations:
 4. Movie durations are consistent — the scatter plot of release year vs. duration reveals that most movies fall within a stable duration range (90–120 minutes). This suggests Netflix adheres to industry norms for viewer engagement.
 5. Correlations among numeric features — the heatmap shows moderate correlations between release year and other numeric attributes. While not strongly predictive, these relationships can guide further modeling or recommendation systems.
 
-###Business Recommendations
+### Business Recommendations
 
 *	Continue investing in movie content.
 *	Expand content diversity across countries.

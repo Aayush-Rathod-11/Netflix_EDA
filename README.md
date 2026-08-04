@@ -6,8 +6,6 @@
 ### Project Overview
 This project analyzes the Netflix Movies and TV Shows dataset using Python. The goal is to clean the data, perform exploratory data analysis, create visualizations, and generate useful business insights from Netflix content trends.
 
-This project was completed as part of the AI & Machine Learning Internship — Project 01: Exploratory Data Analysis & Insights Report.
-
 ### Dataset
 Dataset used: Netflix Movies & TV Shows Dataset
 Source: Kaggle

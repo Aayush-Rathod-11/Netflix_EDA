@@ -6,7 +6,7 @@
 ### Project Overview
 This project analyzes the Netflix Movies and TV Shows dataset using Python. The goal is to clean the data, perform exploratory data analysis, create visualizations, and generate useful business insights from Netflix content trends.
 
-### Dataset
+### Datasets
 Dataset used: Netflix Movies & TV Shows Dataset
 Source: Kaggle
 Dataset link: https://www.kaggle.com/datasets/shivamb/netflix-shows
